@@ -54,6 +54,10 @@ The intensity of style transfer can be controlled by adjusting the style loss we
 - **Optimizer**: Adam
 - **Loss Function**: Content Loss + Style Loss + Tv Loss
 
+## Usage
+For detailed implementation and step-by-step instructions, please follow the Jupyter notebook:
+
 ## Reference 
 Gatys, L. A., Ecker, A. S., & Bethge, M. (2016). Image Style Transfer Using Convolutional Neural Networks. Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR).
+
 
